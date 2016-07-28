@@ -1,0 +1,9 @@
+version en
+=> 1001 ne pas oublier le et un a la fin,,,,
+=> implementer bistro/eval expr : done
+=> fonction ki check + grand kun int
+=>option -b ki accepte tous les operateurs
+=> checker norme
+=> remplacer libmy par les fichier sources
+=> checker portabilite maya
+=> + options
